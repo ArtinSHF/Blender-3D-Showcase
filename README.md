@@ -2,6 +2,8 @@
 
 <img width="5760" height="2160" alt="combined-image" src="https://github.com/user-attachments/assets/46377411-326b-4551-9aa6-a3fa3f0ed253" />
 
+---
+
 A collection of my Blender projects, including 3D models, animations, rendered scenes, and visual experiments.
 
 This repository is built to do two things:
