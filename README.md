@@ -95,7 +95,3 @@ If you use anything from this repository, please give credit where it is due.
 ## Status
 
 This showcase will continue to grow over time as I create more Blender projects.
-
-## License
-
-© 2025 ArtinSHF — Licensed under CC BY-NC 4.0. You may share and use this project with credit to ArtinSHF (github.com/ArtinSHF). Commercial use is not permitted. See LICENSE for details.
